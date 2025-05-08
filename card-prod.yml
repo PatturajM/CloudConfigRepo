@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+card:
+  message: "Welcome To production Environment ra reii..!"
+  contact:
+    name: "Mahesh Babu"
+    email: "mahesh@gmail.com"
+  onCallSupport:
+    - 213521631
+    - 241653276

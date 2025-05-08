@@ -1,0 +1,12 @@
+
+build:
+  version: "4.0"
+
+card:
+  message: "Welcome to QA Environment ra reii...!"
+  contact:
+    name: "Pawan Kalyan"
+    email: "pawan@gmail.com"
+  onCallSupport:
+    - 3542687537
+    - 3462376813

@@ -1,0 +1,13 @@
+build:
+  version: "3.4.5"
+
+
+loan:
+  message: "Welcome to UAT Makkaley...!"
+  contact:
+    name: "Sivaji Ganesan"
+    email: "sivaji@gmail.com"
+  onCallSupport:
+    - 235243634
+    - 246352665
+

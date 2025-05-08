@@ -1,0 +1,12 @@
+build:
+  version: "9.0.7"
+
+loan:
+  message: "Welcome to PROD Makkaley...!"
+  contact:
+    name: "MG.Ramachandran"
+    email: "mgr@gmail.com"
+  onCallSupport:
+    - 325357436
+    - 246767657
+

@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+loan:
+  message: "Welcome to Local makkaley...!"
+  contact:
+    name: "MS.Viswanathan"
+    email: "msv@gmail.com"
+  onCallSupport:
+    - 3467487586
+    - 3754686587

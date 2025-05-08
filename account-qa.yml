@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to YesBank Payaley...!"
+  contactDetails:
+    name: "Vijay"
+    email: "vijay@yesbank.com"
+  onCallSupport:
+    - 6788324523
+    - 8943632146

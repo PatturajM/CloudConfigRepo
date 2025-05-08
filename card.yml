@@ -1,0 +1,12 @@
+
+
+build:
+  version: "1.0"
+card:
+  message: "Welcome to UAT Environment ra reiii..!"
+  contact:
+    name: "Bala Krishna"
+    email: "balayya@gmail.com"
+  onCallSupport:
+    - 23632347532
+    - 22365334748

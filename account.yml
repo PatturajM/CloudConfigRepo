@@ -1,0 +1,13 @@
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to YesBank Mamey...!"
+  contactDetails:
+    name: "Patturaj"
+    email: "patturaj@yesbank.com"
+  onCallSupport:
+    - 7092032856
+    - 9876543210

@@ -1,0 +1,13 @@
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to YesBank Bro...!"
+  contactDetails:
+    name: "AjithKumar"
+    email: "ajithkumar@yesbank.com"
+  onCallSupport:
+    - 5678891343
+    - 6534352677

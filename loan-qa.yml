@@ -1,0 +1,12 @@
+build:
+  version: "2.4.5"
+
+loan:
+  message: "Welcome to QA makkaley...!"
+  contact:
+    name: "Jemini Ganesan"
+    email : "jemini@gmail.com"
+  onCallSupport:
+    - 32523463
+    - 21463575
+

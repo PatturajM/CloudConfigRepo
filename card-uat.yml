@@ -1,0 +1,12 @@
+
+build:
+  version: 3.0
+
+card:
+  message: "Welcome to UAT Environment ra reiii..!"
+  contact:
+    name: "Chiranjeevi"
+    email: "chiru@gmail.com"
+  onCallSupport:
+    - 2363247532
+    - 2236532748

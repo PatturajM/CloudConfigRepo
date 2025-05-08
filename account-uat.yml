@@ -1,0 +1,12 @@
+
+build:
+  version: "4.0"
+
+accounts:
+  message: "Welcome to YesBank Guys...!"
+  contactDetails:
+    name: "RajiniKanth"
+    email: "rajinikanth@yesbank.com"
+  onCallSupport:
+    - 7832421525
+    - 6421426143
