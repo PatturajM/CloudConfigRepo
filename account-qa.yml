@@ -7,9 +7,9 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to YesBank Payaley...!"
+  message: "Welcome to YesBank Our Virtual Warriors...!"
   contactDetails:
-    name: "Vijay"
+    name: "TVK Vijay"
     email: "{cipher}c4cd824f35447966f913e32ad5fab3e62f19504986ede7f4fb274154768c9c44acd02b01329ed867b326b00379a4bf54"
   onCallSupport:
     - 6788324523
