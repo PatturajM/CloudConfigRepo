@@ -2,9 +2,9 @@ build:
   version: "9.0.7"
 
 loan:
-  message: "Welcome to PROD Makkaley...!"
+  message: "Welcome to PRODUTION Makkaley...!"
   contact:
-    name: "MG.Ramachandran"
+    name: "DR.MG.Ramachandran"
     email: "mgr@gmail.com"
   onCallSupport:
     - 325357436
