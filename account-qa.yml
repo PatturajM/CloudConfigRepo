@@ -7,7 +7,11 @@ build:
   version: "3.0"
 
 accounts:
+<<<<<<< HEAD
   message: "Welcome to YesBank Our Virtual Warriors...!"
+=======
+  message: "Welcome to YesBank Virtual Warriors...!"
+>>>>>>> 5f6328f9c5b9e579769a20b22c5c7f3e80f87331
   contactDetails:
     name: "TVK Vijay"
     email: "{cipher}c4cd824f35447966f913e32ad5fab3e62f19504986ede7f4fb274154768c9c44acd02b01329ed867b326b00379a4bf54"
