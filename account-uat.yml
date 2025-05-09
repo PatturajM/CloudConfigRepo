@@ -3,7 +3,7 @@ build:
   version: "4.0"
 
 accounts:
-  message: "Welcome to YesBank Guys...!"
+  message: "Welcome to YesBank deivangaley...!"
   contactDetails:
     name: "SuperStar RajiniKanth"
     email: "rajinikanth@yesbank.com"
